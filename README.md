@@ -15,7 +15,7 @@ Das Programm hat 18.19 Sekunden gebraucht.
 
 **resources/scan_off.wav:**
 
-    es ist ein Problem mit dem jeder PC und Mac Nutzer im Büro irgendwann konfrontiert wird ein wichtiger Brief soll als PDF gescannt werden oder ein abfotografiertes Dokument archiviert werden das Problem dabei der Scan oder das Foto allein sorgt zwar für eine digitale Kopie des Dokuments dass ich von Menschen den es doch sobald der Computer das Dokument in irgendeiner Form nutzen soll wird es knifflig soll der Text extrahiert oder der Inhalt der Datei indexiert werden stellt sich der Rechner an als wäre kein Text enthalten vor allem in Hinblick auf das papierlose Büro ist das ausgesprochen lästig weshalb es seit geraumer Zeit sogenannte Texterkennungssoftware gibt
+es ist ein Problem mit dem jeder PC und Mac Nutzer im Büro irgendwann konfrontiert wird ein wichtiger Brief soll als PDF gescannt werden oder ein abfotografiertes Dokument archiviert werden das Problem dabei der Scan oder das Foto allein sorgt zwar für eine digitale Kopie des Dokuments dass ich von Menschen den es doch sobald der Computer das Dokument in irgendeiner Form nutzen soll wird es knifflig soll der Text extrahiert oder der Inhalt der Datei indexiert werden stellt sich der Rechner an als wäre kein Text enthalten vor allem in Hinblick auf das papierlose Büro ist das ausgesprochen lästig weshalb es seit geraumer Zeit sogenannte Texterkennungssoftware gibt
 
 Der erkannte Text stimmt zu 84.20279206465834% mit dem Original überein.
 Das Programm hat 20.08 Sekunden gebraucht.
